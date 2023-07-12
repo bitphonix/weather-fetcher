@@ -11,7 +11,7 @@ A Python script to fetch weather details from the OpenWeatherMap API based on us
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/weather-fetcher.git
+   git clone https://github.com/bitphonix/weather-fetcher.git
 
 2. Install the required dependencies:
    pip install requests
