@@ -37,7 +37,7 @@ This script uses the OpenWeatherMap API to fetch weather data. To make API reque
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to contribute and make improvements! If you encounter any issues or have suggestions, please open an issue in the [issue tracker](https://github.com/your-username/weather-fetcher/issues).
+Feel free to contribute and make improvements! If you encounter any issues or have suggestions, please open an issue in the [issue tracker](https://github.com/bitphonix/weather-fetcher/issues).
 
 
 
