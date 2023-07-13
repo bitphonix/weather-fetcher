@@ -24,11 +24,7 @@ pip install requests
 
 ## Usage
 
-1. Run the script:
-
-```
-python weather_fetcher.py
-```
+1. Run the file:
 
 2. Enter the corresponding option to fetch weather details:
    - Enter `1` to fetch weather by city.
